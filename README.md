@@ -6,4 +6,4 @@ TestReversi is currently set up so that a human player can play against the rein
 Make a move by specifying a row and a col like so: 3 4 (row 3, col 4)
 
 Features to add in the future: Ask the user when they start the game who they would like to play against, a searching AI, a learning AI, or a human.
-Or if they would like, they can watch two AI play against each other. (Remove having to comment and uncomment code all together).
+Or if they would like, they can watch two AI play against each other. (Remove having to comment and uncomment code to change who plays the game).
