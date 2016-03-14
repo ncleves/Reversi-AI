@@ -1,9 +1,14 @@
 # Reversi-AI
 
-<img align="center" src="https://static1.squarespace.com/static/568df01e69a91a35061d8ba9/t/56d36bb7a3360c0b24e36575/1456696505695/?format=1500w" alt="Reversi Alphabeta vs SARSA"/>
+#####Two different implementations of "perfect information" AI: One learning, using a Q-Learning/SARSA reinforcement learner, the other searching, using the Minimax searching algorithm modified with Alpha-beta pruning.#####
 
+<p align="center">
+  <img src="https://static1.squarespace.com/static/568df01e69a91a35061d8ba9/t/56d36bb7a3360c0b24e36575/1456696505695/?format=1500w"   alt="Reversi Alphabeta vs SARSA"/>
+</p>
+This GIF demonstrates a learning AI plays against a searching AI. Can you guess which AI is the winner?
 
-Two different implementations of "perfect information" AI: One learning, using a Q-Learning/SARSA reinforcement learner, the other searching, using the Minimax searching algorithm modified with Alpha-beta pruning.
+***
+
 
 The class "TestReversi" is where the game can be started from. Settings can be modified in this class, currently by commenting or uncommenting parts of code.
 TestReversi is currently set up so that a human player can play against the reinforcement learner.
