@@ -18,6 +18,7 @@ This GIF demonstrates a learning AI playing against a searching AI. Can you gues
 
 This is a very basic example of a valid move, particularly because it's the first move of the game. As the game becomes more complex and moves begin to influence the board in more than one direction verifying the validity of moves becomes more difficult. 
 
+The code for checking for a move. This requires looking in 8 cardinal directions (unless the piece is on the corner or the edge of the board, which is only 4 and 6 directions respectively). 
 
 ```Java
 public ArrayList<Position> checkMove(int row, int col){	
