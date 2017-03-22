@@ -1,6 +1,6 @@
 # Reversi-AI
 
-#### Two different implementations of "perfect information" Artificial Intelligence: One learning, using a Q-Learning/SARSA reinforcement learner, the other searching, using the Minimax searching algorithm modified with Alpha-beta pruning.####
+#### Two different implementations of "perfect information" Artificial Intelligence: One learning, using a Q-Learning/SARSA reinforcement learner, the other searching, using the Minimax searching algorithm modified with Alpha-beta pruning. ####
 
 <p align="center">
   <img src="https://static1.squarespace.com/static/568df01e69a91a35061d8ba9/t/56d36bb7a3360c0b24e36575/1456696505695/?format=1500w"   alt="Reversi Alphabeta vs SARSA"/>
