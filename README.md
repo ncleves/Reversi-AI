@@ -1,6 +1,6 @@
 # Reversi-AI
 
-####Two different implementations of "perfect information" Artificial Intelligence: One learning, using a Q-Learning/SARSA reinforcement learner, the other searching, using the Minimax searching algorithm modified with Alpha-beta pruning.####
+#### Two different implementations of "perfect information" Artificial Intelligence: One learning, using a Q-Learning/SARSA reinforcement learner, the other searching, using the Minimax searching algorithm modified with Alpha-beta pruning.####
 
 <p align="center">
   <img src="https://static1.squarespace.com/static/568df01e69a91a35061d8ba9/t/56d36bb7a3360c0b24e36575/1456696505695/?format=1500w"   alt="Reversi Alphabeta vs SARSA"/>
@@ -8,9 +8,9 @@
 This GIF demonstrates a learning AI playing against a searching AI. Can you guess which AI is the winner?
 
 ***
-###Making a move###
+### Making a move ###
 
-######My first objective for this project was creating the game with all of the rules playable for two human players. I ran into many challenges along the way, specifically, validating a move proved to be difficult to implement.######
+###### My first objective for this project was creating the game with all of the rules playable for two human players. I ran into many challenges along the way, specifically, validating a move proved to be difficult to implement. ######
 
 |Initial Board|Where dark may play|Dark's move|
 |:----:|:----:|:----:|
